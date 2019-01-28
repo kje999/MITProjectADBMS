@@ -23,5 +23,7 @@ Additional Features:
 
 Other Requirements:
 .Net Framework 4.6
+
+For Database: I already included inside the Lucky Lotto Database MySQL Folder. Just manually import the SQL File.
       
 
