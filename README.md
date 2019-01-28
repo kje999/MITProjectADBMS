@@ -16,10 +16,12 @@ This (LLIS) has two users: Client and Admin
 *Can view and delete the lotto recent draw result
 *Can view the registered users and delete
 *Can change own password
+*The Default username: ADMIN and Default password: ADMIN
 
 Additional Features:
 *Can speak out the generated random numbers and etc.
 
-------
+Other Requirements:
+.Net Framework 4.6
       
 
