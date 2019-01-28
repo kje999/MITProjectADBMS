@@ -11,13 +11,13 @@ This (LLIS) has two users: Client and Admin
 *They can view there saved generated numbers and draw date
 *They can view as well as the recent draw result lotto numbers
 
--Admin
+-Admin:
 *Can update or save the daily draw result lotto numbers (The combination numbers, lotto type, lotto date draw, jackpot prize)
 *Can view and delete the lotto recent draw result
 *Can view the registered users and delete
 *Can change own password
 
-Additional Features
+Additional Features:
 *Can speak out the generated random numbers and etc.
 
 ------
