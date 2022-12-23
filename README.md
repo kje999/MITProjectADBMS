@@ -16,6 +16,8 @@ This (LLIS) has two users: Client and Admin
 
 *They can view as well as the recent draw result lotto numbers
 
+*The system itself can speak out to the client the predicted lotto draw date after saving the Rolled lucky number
+
 -Admin:
 
 *Can update or save the daily draw result lotto numbers (The combination numbers, lotto type, lotto date draw, jackpot prize)
