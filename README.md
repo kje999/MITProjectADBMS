@@ -1,5 +1,6 @@
 # MITProjectADBMS
 Lucky Lotto Information System(LLIS) developed by Kenth Joshua Espina
+
 Programming Tools used: Vb.net 2013 for my back end: MySQL Database
 
 This (LLIS) has two users: Client and Admin
