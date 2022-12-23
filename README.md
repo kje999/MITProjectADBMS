@@ -6,7 +6,7 @@ Programming Tools used: Vb.net 2013 for my back end: MySQL Database
 This (LLIS) has two users: Client and Admin
 
 -Client:
-*They can sign up and set their own username and password for login.
+*They can sign up and set their own username and password for login.\
 *They can generate 6 random numbers or also known as Lucky Pick numbers with maximum number according to their lotto type choose and Save the generated numbers
 *It will notify them if they won the lotto combination numbers
 *They can view there saved generated numbers and draw date
